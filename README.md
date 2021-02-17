@@ -1,2 +1,2 @@
 # CoreBot
-[GitHub site](https://yalib.github.io/CoreBot/)
+## [Bot Wiki](https://zedus.gitbook.io/corebot/)
